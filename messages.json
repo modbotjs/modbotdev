@@ -1,0 +1,1026 @@
+[
+  {
+    "author": {
+      "id": "235804673578237952",
+      "username": "Wingy",
+      "discriminator": "3538"
+    },
+    "guild": {
+      "id": "313314649229754368",
+      "name": "Bot Creation Team"
+    },
+    "channel": {
+      "id": "313385400867618836",
+      "name": "bot-playground"
+    },
+    "content": ">ping"
+  },
+  {
+    "author": {
+      "id": "313389406398709760",
+      "username": "ModBot™",
+      "discriminator": "5917"
+    },
+    "guild": {
+      "id": "313314649229754368",
+      "name": "Bot Creation Team"
+    },
+    "channel": {
+      "id": "313385400867618836",
+      "name": "bot-playground"
+    },
+    "content": "<@235804673578237952>, Pong! (132 milliseconds)"
+  },
+  {
+    "author": {
+      "id": "235804673578237952",
+      "username": "Wingy",
+      "discriminator": "3538"
+    },
+    "guild": {
+      "id": "313314649229754368",
+      "name": "Bot Creation Team"
+    },
+    "channel": {
+      "id": "313385400867618836",
+      "name": "bot-playground"
+    },
+    "content": "WooHoo!"
+  },
+  {
+    "author": {
+      "id": "235804673578237952",
+      "username": "Wingy",
+      "discriminator": "3538"
+    },
+    "guild": {
+      "id": "313314649229754368",
+      "name": "Bot Creation Team"
+    },
+    "channel": {
+      "id": "313324129510096896",
+      "name": "devteam"
+    },
+    "content": "We need a team name."
+  },
+  {
+    "author": {
+      "id": "165466147276193792",
+      "username": "Tim",
+      "discriminator": "0079"
+    },
+    "guild": {
+      "id": "313314649229754368",
+      "name": "Bot Creation Team"
+    },
+    "channel": {
+      "id": "313324129510096896",
+      "name": "devteam"
+    },
+    "content": "Workarinola"
+  },
+  {
+    "author": {
+      "id": "235804673578237952",
+      "username": "Wingy",
+      "discriminator": "3538"
+    },
+    "guild": {
+      "id": "313314649229754368",
+      "name": "Bot Creation Team"
+    },
+    "channel": {
+      "id": "313385400867618836",
+      "name": "bot-playground"
+    },
+    "content": ">servers"
+  },
+  {
+    "author": {
+      "id": "313389406398709760",
+      "username": "ModBot™",
+      "discriminator": "5917"
+    },
+    "guild": {
+      "id": "313314649229754368",
+      "name": "Bot Creation Team"
+    },
+    "channel": {
+      "id": "313385400867618836",
+      "name": "bot-playground"
+    },
+    "content": "<@235804673578237952>, I currently have 4 servers."
+  },
+  {
+    "author": {
+      "id": "235804673578237952",
+      "username": "Wingy",
+      "discriminator": "3538"
+    },
+    "guild": {
+      "id": "252172355369959424",
+      "name": "Programming"
+    },
+    "channel": {
+      "id": "252172355369959424",
+      "name": "everything"
+    },
+    "content": "I'm trying to set up an LT2P VPN Server. I'm using Ubuntu Server 16.04."
+  },
+  {
+    "author": {
+      "id": "157609045283438592",
+      "username": "笨蛋",
+      "discriminator": "4830"
+    },
+    "guild": {
+      "id": "252172355369959424",
+      "name": "Programming"
+    },
+    "channel": {
+      "id": "252173044015955971",
+      "name": "python"
+    },
+    "content": "Something like str is not callable"
+  },
+  {
+    "author": {
+      "id": "162690336496418817",
+      "username": "Bouh 👻",
+      "discriminator": "5892"
+    },
+    "guild": {
+      "id": "252172355369959424",
+      "name": "Programming"
+    },
+    "channel": {
+      "id": "252172907541823488",
+      "name": "c_sharp"
+    },
+    "content": "hey, if i want a  simple IDE for C# , what you council me ?"
+  },
+  {
+    "author": {
+      "id": "162690336496418817",
+      "username": "Bouh 👻",
+      "discriminator": "5892"
+    },
+    "guild": {
+      "id": "252172355369959424",
+      "name": "Programming"
+    },
+    "channel": {
+      "id": "252172907541823488",
+      "name": "c_sharp"
+    },
+    "content": "advice me *"
+  },
+  {
+    "author": {
+      "id": "179622041505366016",
+      "username": "Solon",
+      "discriminator": "6882"
+    },
+    "guild": {
+      "id": "252172355369959424",
+      "name": "Programming"
+    },
+    "channel": {
+      "id": "252172907541823488",
+      "name": "c_sharp"
+    },
+    "content": "Visual Studio or MonoDevelop"
+  },
+  {
+    "author": {
+      "id": "179622041505366016",
+      "username": "Solon",
+      "discriminator": "6882"
+    },
+    "guild": {
+      "id": "252172355369959424",
+      "name": "Programming"
+    },
+    "channel": {
+      "id": "252172907541823488",
+      "name": "c_sharp"
+    },
+    "content": "These are _by far_ the best choices"
+  },
+  {
+    "author": {
+      "id": "162690336496418817",
+      "username": "Bouh 👻",
+      "discriminator": "5892"
+    },
+    "guild": {
+      "id": "252172355369959424",
+      "name": "Programming"
+    },
+    "channel": {
+      "id": "252172907541823488",
+      "name": "c_sharp"
+    },
+    "content": "ty 😃"
+  },
+  {
+    "author": {
+      "id": "187857968581050369",
+      "username": "FreeApp2014",
+      "discriminator": "5424"
+    },
+    "guild": {
+      "id": "313314649229754368",
+      "name": "Bot Creation Team"
+    },
+    "channel": {
+      "id": "313314649229754368",
+      "name": "on-topic"
+    },
+    "content": "Hi everyone"
+  },
+  {
+    "author": {
+      "id": "157609045283438592",
+      "username": "笨蛋",
+      "discriminator": "4830"
+    },
+    "guild": {
+      "id": "252172355369959424",
+      "name": "Programming"
+    },
+    "channel": {
+      "id": "252173044015955971",
+      "name": "python"
+    },
+    "content": "TypeError: 'str' object is not callable"
+  },
+  {
+    "author": {
+      "id": "157609045283438592",
+      "username": "笨蛋",
+      "discriminator": "4830"
+    },
+    "guild": {
+      "id": "252172355369959424",
+      "name": "Programming"
+    },
+    "channel": {
+      "id": "252173044015955971",
+      "name": "python"
+    },
+    "content": "```TypeError: 'str' object is not callable```"
+  },
+  {
+    "author": {
+      "id": "150104945788452864",
+      "username": "Atilla",
+      "discriminator": "8769"
+    },
+    "guild": {
+      "id": "252172355369959424",
+      "name": "Programming"
+    },
+    "channel": {
+      "id": "252417771588026379",
+      "name": "others"
+    },
+    "content": "hi I am  working in Oracle sql develepor and would like to know how to run an order by statment by providing the neumeric columb number. \n\nThis is what I have tried any ideas as to what the error is\n\n\nselect last_name as \"Last Name\",\n       salary,\n       COMMISSION_PCT as \"Commision %\"\n       \n       from employees\n       where COMMISSION_PCT is not null\n       order by 8;"
+  },
+  {
+    "author": {
+      "id": "165466147276193792",
+      "username": "Tim",
+      "discriminator": "0079"
+    },
+    "guild": {
+      "id": "313314649229754368",
+      "name": "Bot Creation Team"
+    },
+    "channel": {
+      "id": "313314649229754368",
+      "name": "on-topic"
+    },
+    "content": "Hey"
+  },
+  {
+    "author": {
+      "id": "196672907466768384",
+      "username": "Bone",
+      "discriminator": "6993"
+    },
+    "guild": {
+      "id": "252172355369959424",
+      "name": "Programming"
+    },
+    "channel": {
+      "id": "252172527680487426",
+      "name": "java"
+    },
+    "content": "Nevermind"
+  },
+  {
+    "author": {
+      "id": "235804673578237952",
+      "username": "Wingy",
+      "discriminator": "3538"
+    },
+    "guild": {
+      "id": "313314649229754368",
+      "name": "Bot Creation Team"
+    },
+    "channel": {
+      "id": "313314649229754368",
+      "name": "on-topic"
+    },
+    "content": "Should I bring <@313389406398709760> to some servers?"
+  },
+  {
+    "author": {
+      "id": "235804673578237952",
+      "username": "Wingy",
+      "discriminator": "3538"
+    },
+    "guild": {
+      "id": "313314649229754368",
+      "name": "Bot Creation Team"
+    },
+    "channel": {
+      "id": "313314649229754368",
+      "name": "on-topic"
+    },
+    "content": ">servers"
+  },
+  {
+    "author": {
+      "id": "313389406398709760",
+      "username": "ModBot™",
+      "discriminator": "5917"
+    },
+    "guild": {
+      "id": "313314649229754368",
+      "name": "Bot Creation Team"
+    },
+    "channel": {
+      "id": "313314649229754368",
+      "name": "on-topic"
+    },
+    "content": "<@235804673578237952>, I currently have 4 servers."
+  },
+  {
+    "author": {
+      "id": "199114006420520960",
+      "username": "! 𝗧𝗵𝗲𝗝𝗼𝘀𝗵𝘂𝗮𝟵𝟳𝟰 !",
+      "discriminator": "1226"
+    },
+    "guild": {
+      "id": "313314649229754368",
+      "name": "Bot Creation Team"
+    },
+    "channel": {
+      "id": "313314649229754368",
+      "name": "on-topic"
+    },
+    "content": "whynot"
+  },
+  {
+    "author": {
+      "id": "160567046642335746",
+      "username": "Dragon5232",
+      "discriminator": "1841"
+    },
+    "guild": {
+      "id": "252172355369959424",
+      "name": "Programming"
+    },
+    "channel": {
+      "id": "252172355369959424",
+      "name": "everything"
+    },
+    "content": "k"
+  },
+  {
+    "author": {
+      "id": "160567046642335746",
+      "username": "Dragon5232",
+      "discriminator": "1841"
+    },
+    "guild": {
+      "id": "252172355369959424",
+      "name": "Programming"
+    },
+    "channel": {
+      "id": "252172355369959424",
+      "name": "everything"
+    },
+    "content": "<@235804673578237952> strongswan + xl2tpd"
+  },
+  {
+    "author": {
+      "id": "160567046642335746",
+      "username": "Dragon5232",
+      "discriminator": "1841"
+    },
+    "guild": {
+      "id": "252172355369959424",
+      "name": "Programming"
+    },
+    "channel": {
+      "id": "252172907541823488",
+      "name": "c_sharp"
+    },
+    "content": "they are also pretty much the only ones"
+  },
+  {
+    "author": {
+      "id": "237699741977149450",
+      "username": "Simple_Art",
+      "discriminator": "1200"
+    },
+    "guild": {
+      "id": "252172355369959424",
+      "name": "Programming"
+    },
+    "channel": {
+      "id": "252175925486026752",
+      "name": "ruby"
+    },
+    "content": "```Markdown\nRuby: My number v4.1\n```\n```\ndef f(n,a=n,b=n,c=n)c>0?n.times{n*=f n,a,b,c-1}&&n:b>0?f(n,a,b-1):a<0?n:f(n,a-1)end;f(f(f(f(f 99))))\n```"
+  },
+  {
+    "author": {
+      "id": "237699741977149450",
+      "username": "Simple_Art",
+      "discriminator": "1200"
+    },
+    "guild": {
+      "id": "252172355369959424",
+      "name": "Programming"
+    },
+    "channel": {
+      "id": "252175925486026752",
+      "name": "ruby"
+    },
+    "content": "<@249199023678816256> What is readibility when I'm too busy [code scripting?](https://en.wikipedia.org/wiki/Code_golf)"
+  },
+  {
+    "author": {
+      "id": "252094524531277825",
+      "username": "robloxultraplayer",
+      "discriminator": "1182"
+    },
+    "guild": {
+      "id": "313314649229754368",
+      "name": "Bot Creation Team"
+    },
+    "channel": {
+      "id": "313385400867618836",
+      "name": "bot-playground"
+    },
+    "content": ">servers"
+  },
+  {
+    "author": {
+      "id": "313389406398709760",
+      "username": "ModBot™",
+      "discriminator": "5917"
+    },
+    "guild": {
+      "id": "313314649229754368",
+      "name": "Bot Creation Team"
+    },
+    "channel": {
+      "id": "313385400867618836",
+      "name": "bot-playground"
+    },
+    "content": "<@252094524531277825>, I currently have 4 servers."
+  },
+  {
+    "author": {
+      "id": "129213229221019648",
+      "username": "K2Shape",
+      "discriminator": "4328"
+    },
+    "guild": {
+      "id": "252172355369959424",
+      "name": "Programming"
+    },
+    "channel": {
+      "id": "252172907541823488",
+      "name": "c_sharp"
+    },
+    "content": "<@162690336496418817> I would say Visual Studio Community 2017 is better unless you want to make mobile apps modtly."
+  },
+  {
+    "author": {
+      "id": "235804673578237952",
+      "username": "Wingy",
+      "discriminator": "3538"
+    },
+    "guild": {
+      "id": "252172355369959424",
+      "name": "Programming"
+    },
+    "channel": {
+      "id": "252172355369959424",
+      "name": "everything"
+    },
+    "content": "<@160567046642335746> I had those."
+  },
+  {
+    "author": {
+      "id": "235804673578237952",
+      "username": "Wingy",
+      "discriminator": "3538"
+    },
+    "guild": {
+      "id": "252172355369959424",
+      "name": "Programming"
+    },
+    "channel": {
+      "id": "252172355369959424",
+      "name": "everything"
+    },
+    "content": "How do I configure them?"
+  },
+  {
+    "author": {
+      "id": "160567046642335746",
+      "username": "Dragon5232",
+      "discriminator": "1841"
+    },
+    "guild": {
+      "id": "252172355369959424",
+      "name": "Programming"
+    },
+    "channel": {
+      "id": "252172355369959424",
+      "name": "everything"
+    },
+    "content": "there's guides online"
+  },
+  {
+    "author": {
+      "id": "235804673578237952",
+      "username": "Wingy",
+      "discriminator": "3538"
+    },
+    "guild": {
+      "id": "252172355369959424",
+      "name": "Programming"
+    },
+    "channel": {
+      "id": "252172355369959424",
+      "name": "everything"
+    },
+    "content": "I can't seem to find them."
+  },
+  {
+    "author": {
+      "id": "150369242263453696",
+      "username": "DJ Pedobear",
+      "discriminator": "7965"
+    },
+    "guild": {
+      "id": "252172355369959424",
+      "name": "Programming"
+    },
+    "channel": {
+      "id": "252172907541823488",
+      "name": "c_sharp"
+    },
+    "content": "For Game Unity For Business  Visual Studio"
+  },
+  {
+    "author": {
+      "id": "160567046642335746",
+      "username": "Dragon5232",
+      "discriminator": "1841"
+    },
+    "guild": {
+      "id": "252172355369959424",
+      "name": "Programming"
+    },
+    "channel": {
+      "id": "252172355369959424",
+      "name": "everything"
+    },
+    "content": "A simple Google search should do"
+  },
+  {
+    "author": {
+      "id": "150369242263453696",
+      "username": "DJ Pedobear",
+      "discriminator": "7965"
+    },
+    "guild": {
+      "id": "252172355369959424",
+      "name": "Programming"
+    },
+    "channel": {
+      "id": "252172355369959424",
+      "name": "everything"
+    },
+    "content": "help what's my problem in this one ?"
+  },
+  {
+    "author": {
+      "id": "150369242263453696",
+      "username": "DJ Pedobear",
+      "discriminator": "7965"
+    },
+    "guild": {
+      "id": "252172355369959424",
+      "name": "Programming"
+    },
+    "channel": {
+      "id": "252172355369959424",
+      "name": "everything"
+    },
+    "content": "Assert.AreEqual(actual, typeof(NegotiatedContentResult<string>));"
+  },
+  {
+    "author": {
+      "id": "199114006420520960",
+      "username": "! 𝗧𝗵𝗲𝗝𝗼𝘀𝗵𝘂𝗮𝟵𝟳𝟰 !",
+      "discriminator": "1226"
+    },
+    "guild": {
+      "id": "252172355369959424",
+      "name": "Programming"
+    },
+    "channel": {
+      "id": "252172355369959424",
+      "name": "everything"
+    },
+    "content": "maybe one is empty ?"
+  },
+  {
+    "author": {
+      "id": "150369242263453696",
+      "username": "DJ Pedobear",
+      "discriminator": "7965"
+    },
+    "guild": {
+      "id": "252172355369959424",
+      "name": "Programming"
+    },
+    "channel": {
+      "id": "252172355369959424",
+      "name": "everything"
+    },
+    "content": "both has string of test"
+  },
+  {
+    "author": {
+      "id": "150369242263453696",
+      "username": "DJ Pedobear",
+      "discriminator": "7965"
+    },
+    "guild": {
+      "id": "252172355369959424",
+      "name": "Programming"
+    },
+    "channel": {
+      "id": "252172355369959424",
+      "name": "everything"
+    },
+    "content": "oh well"
+  },
+  {
+    "author": {
+      "id": "162690336496418817",
+      "username": "Bouh 👻",
+      "discriminator": "5892"
+    },
+    "guild": {
+      "id": "252172355369959424",
+      "name": "Programming"
+    },
+    "channel": {
+      "id": "252172907541823488",
+      "name": "c_sharp"
+    },
+    "content": "just for try and in the future made a app for windows 10"
+  },
+  {
+    "author": {
+      "id": "199114006420520960",
+      "username": "! 𝗧𝗵𝗲𝗝𝗼𝘀𝗵𝘂𝗮𝟵𝟳𝟰 !",
+      "discriminator": "1226"
+    },
+    "guild": {
+      "id": "313314649229754368",
+      "name": "Bot Creation Team"
+    },
+    "channel": {
+      "id": "314150872781291522",
+      "name": "suggestions"
+    },
+    "content": "@everyone"
+  },
+  {
+    "author": {
+      "id": "199114006420520960",
+      "username": "! 𝗧𝗵𝗲𝗝𝗼𝘀𝗵𝘂𝗮𝟵𝟳𝟰 !",
+      "discriminator": "1226"
+    },
+    "guild": {
+      "id": "313314649229754368",
+      "name": "Bot Creation Team"
+    },
+    "channel": {
+      "id": "314150872781291522",
+      "name": "suggestions"
+    },
+    "content": "who tagged meh"
+  },
+  {
+    "author": {
+      "id": "252094524531277825",
+      "username": "robloxultraplayer",
+      "discriminator": "1182"
+    },
+    "guild": {
+      "id": "313314649229754368",
+      "name": "Bot Creation Team"
+    },
+    "channel": {
+      "id": "314150872781291522",
+      "name": "suggestions"
+    },
+    "content": "Not me..."
+  },
+  {
+    "author": {
+      "id": "160567046642335746",
+      "username": "Dragon5232",
+      "discriminator": "1841"
+    },
+    "guild": {
+      "id": "252172355369959424",
+      "name": "Programming"
+    },
+    "channel": {
+      "id": "252172907541823488",
+      "name": "c_sharp"
+    },
+    "content": "Definitely vs then"
+  },
+  {
+    "author": {
+      "id": "199114006420520960",
+      "username": "! 𝗧𝗵𝗲𝗝𝗼𝘀𝗵𝘂𝗮𝟵𝟳𝟰 !",
+      "discriminator": "1226"
+    },
+    "guild": {
+      "id": "313314649229754368",
+      "name": "Bot Creation Team"
+    },
+    "channel": {
+      "id": "313314649229754368",
+      "name": "on-topic"
+    },
+    "content": "|say ,,help"
+  },
+  {
+    "author": {
+      "id": "275547812928684033",
+      "username": "Lushua",
+      "discriminator": "3678"
+    },
+    "guild": {
+      "id": "313314649229754368",
+      "name": "Bot Creation Team"
+    },
+    "channel": {
+      "id": "313314649229754368",
+      "name": "on-topic"
+    },
+    "content": ",,help"
+  },
+  {
+    "author": {
+      "id": "252094524531277825",
+      "username": "robloxultraplayer",
+      "discriminator": "1182"
+    },
+    "guild": {
+      "id": "313314649229754368",
+      "name": "Bot Creation Team"
+    },
+    "channel": {
+      "id": "313314649229754368",
+      "name": "on-topic"
+    },
+    "content": ",,help"
+  },
+  {
+    "author": {
+      "id": "291650980578197506",
+      "username": "NanoBot",
+      "discriminator": "0879"
+    },
+    "guild": {
+      "id": "313314649229754368",
+      "name": "Bot Creation Team"
+    },
+    "channel": {
+      "id": "313314649229754368",
+      "name": "on-topic"
+    },
+    "content": "Commands:\n\n,,cat - Send a picture of a cat\n,,rev - Reverse a message\n,,help - Show this message\n,,invite - Invite NanoBot to your server\n,,say - Say a message\n,,testbot - Test if the bot is working\n,,info - Server count, user count, uptime, RAM usage"
+  },
+  {
+    "author": {
+      "id": "252094524531277825",
+      "username": "robloxultraplayer",
+      "discriminator": "1182"
+    },
+    "guild": {
+      "id": "313314649229754368",
+      "name": "Bot Creation Team"
+    },
+    "channel": {
+      "id": "313314649229754368",
+      "name": "on-topic"
+    },
+    "content": "|say ,,hep"
+  },
+  {
+    "author": {
+      "id": "275547812928684033",
+      "username": "Lushua",
+      "discriminator": "3678"
+    },
+    "guild": {
+      "id": "313314649229754368",
+      "name": "Bot Creation Team"
+    },
+    "channel": {
+      "id": "313314649229754368",
+      "name": "on-topic"
+    },
+    "content": ",,hep"
+  },
+  {
+    "author": {
+      "id": "252094524531277825",
+      "username": "robloxultraplayer",
+      "discriminator": "1182"
+    },
+    "guild": {
+      "id": "313314649229754368",
+      "name": "Bot Creation Team"
+    },
+    "channel": {
+      "id": "313314649229754368",
+      "name": "on-topic"
+    },
+    "content": "|sayd ,,help"
+  },
+  {
+    "author": {
+      "id": "275547812928684033",
+      "username": "Lushua",
+      "discriminator": "3678"
+    },
+    "guild": {
+      "id": "313314649229754368",
+      "name": "Bot Creation Team"
+    },
+    "channel": {
+      "id": "313314649229754368",
+      "name": "on-topic"
+    },
+    "content": ",,help"
+  },
+  {
+    "author": {
+      "id": "160567046642335746",
+      "username": "Dragon5232",
+      "discriminator": "1841"
+    },
+    "guild": {
+      "id": "252172355369959424",
+      "name": "Programming"
+    },
+    "channel": {
+      "id": "252173044015955971",
+      "name": "python"
+    },
+    "content": "You're calling `sql`, the str with the query, with the args"
+  },
+  {
+    "author": {
+      "id": "235804673578237952",
+      "username": "Wingy",
+      "discriminator": "3538"
+    },
+    "guild": {
+      "id": "313314649229754368",
+      "name": "Bot Creation Team"
+    },
+    "channel": {
+      "id": "314150872781291522",
+      "name": "suggestions"
+    },
+    "content": "I was pinged?"
+  },
+  {
+    "author": {
+      "id": "252094524531277825",
+      "username": "robloxultraplayer",
+      "discriminator": "1182"
+    },
+    "guild": {
+      "id": "313314649229754368",
+      "name": "Bot Creation Team"
+    },
+    "channel": {
+      "id": "314150872781291522",
+      "name": "suggestions"
+    },
+    "content": "?"
+  },
+  {
+    "author": {
+      "id": "235804673578237952",
+      "username": "Wingy",
+      "discriminator": "3538"
+    },
+    "guild": {
+      "id": "313314649229754368",
+      "name": "Bot Creation Team"
+    },
+    "channel": {
+      "id": "313314649229754368",
+      "name": "on-topic"
+    },
+    "content": ">kick <@275547812928684033>"
+  },
+  {
+    "author": {
+      "id": "313389406398709760",
+      "username": "ModBot™",
+      "discriminator": "5917"
+    },
+    "guild": {
+      "id": "313314649229754368",
+      "name": "Bot Creation Team"
+    },
+    "channel": {
+      "id": "313314649229754368",
+      "name": "on-topic"
+    },
+    "content": "<@235804673578237952>, Kicked <@275547812928684033>"
+  },
+  {
+    "author": {
+      "id": "235804673578237952",
+      "username": "Wingy",
+      "discriminator": "3538"
+    },
+    "guild": {
+      "id": "313314649229754368",
+      "name": "Bot Creation Team"
+    },
+    "channel": {
+      "id": "313314649229754368",
+      "name": "on-topic"
+    },
+    "content": "<@199114006420520960>"
+  },
+  {
+    "author": {
+      "id": "199114006420520960",
+      "username": "! 𝗧𝗵𝗲𝗝𝗼𝘀𝗵𝘂𝗮𝟵𝟳𝟰 !",
+      "discriminator": "1226"
+    },
+    "guild": {
+      "id": "313314649229754368",
+      "name": "Bot Creation Team"
+    },
+    "channel": {
+      "id": "313314649229754368",
+      "name": "on-topic"
+    },
+    "content": ">kick <@291650980578197506> perm check"
+  },
+  {
+    "author": {
+      "id": "313389406398709760",
+      "username": "ModBot™",
+      "discriminator": "5917"
+    },
+    "guild": {
+      "id": "313314649229754368",
+      "name": "Bot Creation Team"
+    },
+    "channel": {
+      "id": "313314649229754368",
+      "name": "on-topic"
+    },
+    "content": "<@199114006420520960>, You do not have permission to issue that command."
+  }
+]

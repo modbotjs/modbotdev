@@ -1,0 +1,16 @@
+Logged in as ModBot™!
+/home/sam/node/modbot/bot.js:97
+        toBeBanned.ban(`Banned by ${message.author.username}!`);
+                  ^
+
+TypeError: Cannot read property 'ban' of undefined
+    at Client.client.on.message (/home/sam/node/modbot/bot.js:97:19)
+    at emitOne (events.js:96:13)
+    at Client.emit (events.js:191:7)
+    at MessageCreateHandler.handle (/home/sam/node/modbot/node_modules/discord.js/src/client/websocket/packets/handlers/MessageCreate.js:9:34)
+    at WebSocketPacketManager.handle (/home/sam/node/modbot/node_modules/discord.js/src/client/websocket/packets/WebSocketPacketManager.js:102:65)
+    at WebSocketConnection.onPacket (/home/sam/node/modbot/node_modules/discord.js/src/client/websocket/WebSocketConnection.js:325:35)
+    at WebSocketConnection.onMessage (/home/sam/node/modbot/node_modules/discord.js/src/client/websocket/WebSocketConnection.js:288:17)
+    at WebSocket.onMessage (/home/sam/node/modbot/node_modules/ws/lib/EventTarget.js:103:16)
+    at emitTwo (events.js:106:13)
+    at WebSocket.emit (events.js:194:7)
